@@ -4,4 +4,6 @@ Code pour RaspberryPi pour controler un distributeur de croquettes
 
 Controle moteur pas à pas, reconnaissance de chat, differentiation entre chats
 
-Python, Pytorch, OpenCV
+Controle du système avec une application Android via FTP/MQTT
+
+Python, Pytorch, OpenCV, Android, Kotlin, MQTT

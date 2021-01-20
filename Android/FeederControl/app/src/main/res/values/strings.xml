@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FeederControl</string>
+    <string name="tab_text_1">Sommaire</string>
+    <string name="tab_text_2">Reglages</string>
+</resources>
